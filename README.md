@@ -1,5 +1,5 @@
 # btc_tools
-Tools for monitoring bitcoin
+Tools for monitoring btc and other coins
 
 
 The first, "web_app" is a flask application that connect to your gdax API to tell you whether or not you are wining money with your investment.
